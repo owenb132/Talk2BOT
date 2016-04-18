@@ -1,0 +1,7 @@
+<resources>
+    <string name="chat_list">Talk2Bot</string>
+    <string name="email">alison.carrera@outlook.com </string>
+    <string name="message">Write a message</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="pass">1234</string>
+</resources>
